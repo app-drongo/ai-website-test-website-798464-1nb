@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'New: Tech Innovation Platform',
-  title: 'Build the future with',
+  title: 'SWAP Test',
   titleHighlight: 'cutting-edge technology',
   description:
     'Streamline your development workflow with our comprehensive tech platform. Perfect for startups, enterprises, and development teams.',
